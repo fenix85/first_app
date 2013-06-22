@@ -1,0 +1,46 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-06-18 04:00:09 -0700
+Served asset /rails.png - 200 OK (132ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:00:11 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (64.5ms)
+Completed 200 OK in 164ms (Views: 162.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:04:56 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (0.3ms)
+Completed 200 OK in 4ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:18:34 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (5.3ms)
+Completed 200 OK in 60ms (Views: 58.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:19:55 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (1.0ms)
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:19:57 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (0.6ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-06-18 04:21:00 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (5.7ms)
+Completed 200 OK in 57ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
